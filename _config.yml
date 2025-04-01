@@ -28,8 +28,8 @@ url: "https://you93887.github.io/"
 github:
   username: you93887 # change to your GitHub username
 
-#twitter:
- # username: #twitter_username # change to your Twitter username
+twitter:
+  username:  # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -95,7 +95,7 @@ theme_mode: #[light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:#
+cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: profile.png
